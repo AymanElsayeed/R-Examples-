@@ -49,7 +49,7 @@ round((15/26)*100,2)
 
 #### Interpreting Your Scatterplot
 
-This is the graph you created of heighs and weights. Based on your graph, what can you say about the relationship between height and weight? ![](/Users/ayman/Downloads/d.png)
+This is the graph you created of heighs and weights. Based on your graph, what can you say about the relationship between height and weight? ![](_Correlation_and_Regression_files/figure-markdown_github/d.png)
 
 ##### Possible Answers
 
@@ -60,7 +60,7 @@ This is the graph you created of heighs and weights. Based on your graph, what c
 
 #### Pearson's R I
 
-Pearson's r is a measure of how strongly the variables are correlated with each other. Look at the graph on the right. Which of the following Pearson's r values are likely to belong to this graph? ![](/Users/ayman/Downloads/e.png)
+Pearson's r is a measure of how strongly the variables are correlated with each other. Look at the graph on the right. Which of the following Pearson's r values are likely to belong to this graph? ![](_Correlation_and_Regression_files/figure-markdown_github/e.png)
 
 ##### Possible Answers
 
@@ -71,7 +71,7 @@ Pearson's r is a measure of how strongly the variables are correlated with each 
 
 #### Pearson's R II
 
-Which of the following Pearson's r values are likely to belong to this graph? ![](/Users/ayman/Downloads/t.png)
+Which of the following Pearson's r values are likely to belong to this graph? ![](_Correlation_and_Regression_files/figure-markdown_github/t.png)
 
 ##### Possible Answers
 
@@ -82,7 +82,7 @@ Which of the following Pearson's r values are likely to belong to this graph? ![
 
 #### Pearson's R III
 
-Which of the following Pearson's r values are likely to belong to this graph? ![](/Users/ayman/Downloads/k.png)
+Which of the following Pearson's r values are likely to belong to this graph? ![](_Correlation_and_Regression_files/figure-markdown_github/k.png)
 
 ##### Possible Answers
 
@@ -93,7 +93,7 @@ Which of the following Pearson's r values are likely to belong to this graph? ![
 
 #### Pearson's R IV
 
-Which of the following Pearson's r values are likely to belong to this graph? ![](/Users/ayman/Downloads/g4.png)
+Which of the following Pearson's r values are likely to belong to this graph? ![](_Correlation_and_Regression_files/figure-markdown_github/g4.png)
 
 ##### Possible Answers
 
@@ -147,7 +147,7 @@ sum((y2 - y) ^ 2)
 
 #### Interpreting The Line
 
-![](/Users/ayman/Downloads/fa.png) This graph shows how prosocial someone is after you give them money. Use the graph to answer the following questions. You can round your answer up to the nearest whole number
+![](_Correlation_and_Regression_files/figure-markdown_github/fa.png) This graph shows how prosocial someone is after you give them money. Use the graph to answer the following questions. You can round your answer up to the nearest whole number
 
 -   How prosocial would we predict someone to be when they recieve 6 units of money?
 -   How prosical was the person who recieved 6 units of money in our study?
@@ -185,7 +185,7 @@ y
 
 #### Describing The Line
 
-The equation for the blue line in the graph is Y = 1 + 0.7818(X). What is the equation for the red line? ![](/Users/ayman/Downloads/dtl.png)
+The equation for the blue line in the graph is Y = 1 + 0.7818(X). What is the equation for the red line? ![](_Correlation_and_Regression_files/figure-markdown_github/dtl.png)
 
 ##### Possible Answers
 
@@ -270,7 +270,7 @@ In addition to being the reduction in residual error from using the regression l
 
 You measured how much money people have and their education level in a town. The graph on the right shows the results. We cannot say that more educaion causes more money, we say it is related to more money. Which of the following is not a reason why education is only related to money?
 
-![](/Users/ayman/Downloads/b.png)
+![](_Correlation_and_Regression_files/figure-markdown_github/b.png)
 
     # Possible Answers
     - [x] There could be a third unmeasured variable that influences only money
