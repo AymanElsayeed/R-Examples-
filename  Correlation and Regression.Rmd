@@ -68,7 +68,9 @@ Pearson's r is a measure of how strongly the variables are correlated with each 
 #### Pearson's R II
 
 Which of the following Pearson's r values are likely to belong to this graph?
-![](/Users/ayman/Downloads/t.png)
+![](_Correlation_and_Regression_files/figure-markdown_github/t.png)
+
+
 
 ##### Possible Answers
 - [ ] -0.26
