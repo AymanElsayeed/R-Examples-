@@ -46,7 +46,7 @@ round((15/26)*100,2)
 #### Interpreting Your Scatterplot
 
 This is the graph you created of heighs and weights. Based on your graph, what can you say about the relationship between height and weight?
-![](/Users/ayman/Downloads/d.png)
+![](_Correlation_and_Regression_files/figure-markdown_github/d.png)
 
 ##### Possible Answers
 - [x] It is linear and positive
